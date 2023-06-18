@@ -95,6 +95,10 @@ main li a:hover {
     color: #fff;
 }
 
+p q {
+    color: #444;
+}
+
 footer h2 {
     font-size: 24px;
     margin: 8px;
