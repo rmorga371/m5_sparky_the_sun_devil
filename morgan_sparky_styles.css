@@ -121,3 +121,13 @@ address {
     font-weight: bold;
     font-size: 16px;
 }
+
+footer li a {
+    color: #fff;
+    display: inline-block;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    font-weight: normal;
+}
