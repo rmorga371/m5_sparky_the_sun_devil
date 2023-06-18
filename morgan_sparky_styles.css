@@ -76,6 +76,21 @@ nav li a {
 }
 
 
+nav [type=home]:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
+
+nav [type=resume]:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
+
+nav [type=gallery]:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
+
 main {
     background-color: #fff;
     padding: 24px;
