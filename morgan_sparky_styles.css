@@ -75,18 +75,7 @@ nav li a {
     font-size: 20px;
 }
 
-
-nav [type=home]:hover {
-    background-color: #fff;
-    color: #8c1d40;
-}
-
-nav [type=resume]:hover {
-    background-color: #fff;
-    color: #8c1d40;
-}
-
-nav [type=gallery]:hover {
+nav element:hover {
     background-color: #fff;
     color: #8c1d40;
 }
