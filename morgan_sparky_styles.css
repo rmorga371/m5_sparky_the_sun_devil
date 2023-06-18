@@ -17,3 +17,67 @@ header, footer, div {
     margin-right: auto;
     
 }
+
+header, footer {
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    align: center;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 { 
+    font-size: 24px;
+}
+
+div {
+    display: grid;
+    grid-template-columns: 1.5fr 5fr;
+}
+
+nav {
+    background color: #ffc627;
+}
+
+ul {
+    padding-left: 0;
+}
+
+nav li {
+    display: block;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+main {
+    background-color: #fff;
+    padding: 24px;
+}
+
+footer h2 {
+    font-size: 24px;
+    margin: 8px;
+}
+
+address {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
