@@ -52,11 +52,11 @@ nav {
     background color: #ffc627;
 }
 
-.navigation ul {
+nav ul {
     padding-left: 0;
 }
 
-.navigation li {
+nav li {
     list-style-type: none;
 }
 
