@@ -7,3 +7,13 @@ body {
     color: #222;
 
 }
+
+header, footer, div {
+    width: 1000px;
+    align: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
