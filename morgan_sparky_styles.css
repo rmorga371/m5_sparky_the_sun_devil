@@ -60,7 +60,7 @@ nav li {
     list-style-type: none;
 }
 
-.navigation li a {
+nav li a {
     display: block;
     background-color: #8c1d40;
     color: #fff;
