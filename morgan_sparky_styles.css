@@ -93,6 +93,7 @@ main li a {
 main a:hover {
     background-color: #fff;
     color: #8c1d40;
+    padding: 4px;
 }
 
 p q {
