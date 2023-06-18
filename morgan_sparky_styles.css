@@ -1,3 +1,10 @@
+p {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
 body {
     margin-right: 0;
     margin-left: 0;
@@ -47,11 +54,15 @@ nav {
     background color: #ffc627;
 }
 
-ul {
+.navigation ul {
     padding-left: 0;
 }
 
-nav li {
+.navigation li {
+    list-style-type: none;
+}
+
+.navigation li a {
     display: block;
     background-color: #8c1d40;
     color: #fff;
@@ -65,6 +76,7 @@ nav li {
     font-weight: bold;
     font-size: 20px;
 }
+
 
 main {
     background-color: #fff;
