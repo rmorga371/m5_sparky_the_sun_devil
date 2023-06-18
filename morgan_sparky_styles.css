@@ -85,7 +85,7 @@ main {
     padding: 24px;
 }
 
-main section li a {
+main li a {
     background-color: #8c1d40;
     font-weight: bold;
 }
