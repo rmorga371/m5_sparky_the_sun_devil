@@ -75,7 +75,7 @@ nav li a {
     font-size: 20px;
 }
 
-nav li:hover {
+nav li a:hover {
     background-color: #fff;
     color: #8c1d40;
 }
@@ -93,6 +93,7 @@ main li a {
 footer h2 {
     font-size: 24px;
     margin: 8px;
+
 }
 
 address {
