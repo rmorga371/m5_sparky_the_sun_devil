@@ -75,7 +75,7 @@ nav li a {
     font-size: 20px;
 }
 
-nav element:hover {
+nav li:hover {
     background-color: #fff;
     color: #8c1d40;
 }
@@ -83,6 +83,11 @@ nav element:hover {
 main {
     background-color: #fff;
     padding: 24px;
+}
+
+main li a {
+    background-color:
+
 }
 
 footer h2 {
